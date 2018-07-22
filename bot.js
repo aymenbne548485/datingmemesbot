@@ -4,7 +4,7 @@ const prefix = '&'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Eψ(r) = −ℏ^2/2m ∇^2ψ(r)+V(r)ψ(r)`,"http://twitch.tv/S-F")
+client.user.setGame(`Eψ(r) = −ℏ^2/2m By Dating Team`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
