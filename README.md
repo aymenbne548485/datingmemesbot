@@ -1,2 +1,0 @@
-# datingmemesbot
-datingmemesbot2
